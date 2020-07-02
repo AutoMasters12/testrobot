@@ -13,5 +13,3 @@ sample test 03
     ...    log    test passsed
 sample test 04
     Run Keyword If    ${23}==${23}    Fail  
-           
-    
